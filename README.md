@@ -94,6 +94,7 @@ Has data of municipality, region and county.
 
 6. Credits
 
-jQuery
-Autocomplete : https://jqueryui.com/autocomplete/
+#jQuery
+
+#Autocomplete : https://jqueryui.com/autocomplete/
 
