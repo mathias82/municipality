@@ -25,7 +25,7 @@ Greek
 
 Έχει τα δεδομένα εκείνα του Δήμου, του Νομού και της Περιφέρειας
 
-1. Setup
+# 1. Setup
 
 <!-- this goes inside the header tag-->
 <link href="//cdnjs.cloudflare.com/ajax/libs/animate.css/3.0.0/animate.min.css" rel="stylesheet" type="text/css">
@@ -35,7 +35,7 @@ Greek
 <script src="./js/funct.inc.js"></script>
 <script src="./js/municipality.js"></script>
 
-2. HTML Markup
+# 2. HTML Markup
 
                         <div class="row">
                            <div class="col-md-6 col-sm-6">
@@ -72,7 +72,7 @@ Greek
                            </div>
                         </div>
 
-3. jQuery:
+# 3. jQuery:
 <!--this goes in footer-->
 
     $(document).ready(function()
