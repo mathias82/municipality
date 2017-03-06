@@ -1,14 +1,29 @@
+# municipality
+
+Είναι ένα jquery plugin το οποίο μέσω της λειτουργίας autocomplete μπορείς, αφου δηλώσεις το Δήμο αυτοματοποιημένα να βρίσκεις σε πιο Νομό και Περιφέρεια ανήκει ο Δήμος που έχεις πληκτρολογήσει.
+
 # municipality.js : 
 
 Has logic to took dynamic value from input municipality and automatic pulls out region and county
+
+Greek
+Έχει τη λογική να παίρνει δυναμικά τις τιμές απ το input του δήμου και να βρίσκει to Νομό και την Περιφέρεια.
 
 # funct.inc.js : 
 
 Has functions to search for municipality, and to pull out region and county throught data.json
 
+Greek
+
+Εχει τις συναρτήσεις εκείνες για την αναζήτηση του δήμου και μέσω του autocomplete βρίσκει τον αντίστοιχο Νομό και Περιφέρεια όπου ανήκει
+
 # data.json : 
 
 Has data of municipality, region and county. 
+
+Greek
+
+Έχει τα δεδομένα εκείνα του Δήμου, του Νομού και της Περιφέρειας
 
 1. Setup
 
@@ -72,7 +87,5 @@ Has data of municipality, region and county.
          	
          });
 
-# municipality
 
-Είναι ένα jquery plugin το οποίο μέσω της λειτουργίας autocomplete μπορείς, αφου δηλώσεις το Δήμο αυτοματοποιημένα να βρίσκεις σε πιο Νομό και Περιφέρεια ανήκει ο Δήμος που έχεις πληκτρολογήσει.
 
