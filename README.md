@@ -28,7 +28,7 @@ Has data of municipality, region and county.
 
 # 1. Setup
 
-
+      <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">      
       <!-- all these references goes before the closing body tag-->
       <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
       <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
