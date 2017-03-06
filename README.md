@@ -80,7 +80,7 @@ Has data of municipality, region and county.
     $(document).ready(function()
          {
    
-         	$(this).people({
+         	$(this).municipality({
          		dimos        : 'dimos_input',
          		nomos        : 'nomos_input',
          		perifereia   : 'perifereia_input'
