@@ -28,8 +28,7 @@ Has data of municipality, region and county.
 
 # 1. Setup
 
-      <!-- this goes inside the header tag-->
-      <link href="//cdnjs.cloudflare.com/ajax/libs/animate.css/3.0.0/animate.min.css" rel="stylesheet" type="text/css">
+
       <!-- all these references goes before the closing body tag-->
       <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
       <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
