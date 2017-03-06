@@ -1,8 +1,14 @@
-# municipality.js : Has logic to took dynamic value from input municipality and automatic pulls out region and county
+# municipality.js : 
 
-# funct.inc.js : Has functions to search for municipality, and to pull out region and county throught data.json
+Has logic to took dynamic value from input municipality and automatic pulls out region and county
 
-# data.json : Has data of municipality, region and county. 
+# funct.inc.js : 
+
+Has functions to search for municipality, and to pull out region and county throught data.json
+
+# data.json : 
+
+Has data of municipality, region and county. 
 
 1. Setup
 
