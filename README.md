@@ -1,6 +1,6 @@
 # municipality
 
-It is a jQuery plugin which through the autofill function can, after statements by the Municipality of automated to find more Prefecture and Region belongs to the municipality you have typed.
+It is a jQuery plugin which through the autofill function can, after statements by the Municipality in input you can find Prefecture and Region belongs to the municipality you have typed.
 
 
 Είναι ένα jquery plugin το οποίο μέσω της λειτουργίας autocomplete μπορείς, αφου δηλώσεις το Δήμο αυτοματοποιημένα να βρίσκεις σε πιο Νομό και Περιφέρεια ανήκει ο Δήμος που έχεις πληκτρολογήσει.
