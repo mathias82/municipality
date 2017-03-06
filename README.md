@@ -26,7 +26,6 @@ Greek
 Έχει τα δεδομένα εκείνα του Δήμου, του Νομού και της Περιφέρειας
 
  1. Setup
-
 <!-- this goes inside the header tag-->
 <link href="//cdnjs.cloudflare.com/ajax/libs/animate.css/3.0.0/animate.min.css" rel="stylesheet" type="text/css">
 <!-- all these references goes before the closing body tag-->
