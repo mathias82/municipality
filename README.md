@@ -29,7 +29,7 @@ Has data of municipality, region and county.
                                     <label>Περιφέρεια:</label>
                                  </div>
                                  <div class="col-md-8 col-sm-8 col-xs-8 input-group">
-                                    <input type="text"  value="" class="form-control input-sm"   name="perifereia" id="perifereia" />		
+                                    <input type="text"  value="" class="form-control input-sm"   name="perifereia_input" id="perifereia_input" />		
                                  </div>
                               </div>
                            </div>
@@ -42,7 +42,7 @@ Has data of municipality, region and county.
                                     <label>Νομός:</label>
                                  </div>
                                  <div class="col-md-8 col-sm-8 col-xs-8 input-group">
-                                    <input type="text"  value="" class="form-control input-sm"   name="nomos" id="nomos" />
+                                    <input type="text"  value="" class="form-control input-sm"   name="nomos_input" id="nomos_input" />
                                  </div>
                               </div>
                            </div>
@@ -53,7 +53,7 @@ Has data of municipality, region and county.
                               <label>Δήμος:</label>
                            </div>
                            <div class="col-md-4 col-sm-10 col-xs-10 input-group">
-                              <input type="text"  value="" class="form-control input-sm"   name="dimos" id="dimos" />
+                              <input type="text"  value="" class="form-control input-sm"   name="dimos_input" id="dimos_input" />
                            </div>
                         </div>
 
@@ -64,9 +64,9 @@ Has data of municipality, region and county.
          {
    
          	$(this).people({
-         		dimos        : 'cf_787',
-         		nomos        : 'cf_783',
-         		perifereia   : 'cf_781'
+         		dimos        : 'dimos_input',
+         		nomos        : 'nomos_input',
+         		perifereia   : 'perifereia_input'
          	});
          	
          	
