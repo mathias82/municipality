@@ -25,7 +25,8 @@ Greek
 
 Έχει τα δεδομένα εκείνα του Δήμου, του Νομού και της Περιφέρειας
 
- 1. Setup
+ # 1. Setup
+
 <!-- this goes inside the header tag-->
 <link href="//cdnjs.cloudflare.com/ajax/libs/animate.css/3.0.0/animate.min.css" rel="stylesheet" type="text/css">
 <!-- all these references goes before the closing body tag-->
@@ -33,6 +34,8 @@ Greek
 <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
 <script src="./js/funct.inc.js"></script>
 <script src="./js/municipality.js"></script>
+
+
 
 # 2. HTML Markup
 
