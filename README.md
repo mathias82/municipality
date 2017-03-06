@@ -59,11 +59,10 @@ Has data of municipality, region and county.
 
 3. jQuery:
 #this goes in footer
-$(document).ready(function()
+
+    $(document).ready(function()
          {
-         	
-         
-         	
+   
          	$(this).people({
          		dimos        : 'cf_787',
          		nomos        : 'cf_783',
