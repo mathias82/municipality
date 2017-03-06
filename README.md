@@ -95,6 +95,5 @@ Has data of municipality, region and county.
 6. Credits
 
 jQuery
-Animate.CSS
-jQuery Easing Plugin
+Autocomplete : https://jqueryui.com/autocomplete/
 
