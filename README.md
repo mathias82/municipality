@@ -59,8 +59,7 @@ Has data of municipality, region and county.
 
 3. jQuery:
 #this goes in footer
- <script>
-         $(document).ready(function()
+$(document).ready(function()
          {
          	
          
@@ -73,10 +72,6 @@ Has data of municipality, region and county.
          	
          	
          });
-         
-         
-         
-      </script>
 
 # municipality
 
