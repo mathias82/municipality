@@ -89,11 +89,6 @@ Has data of municipality, region and county.
          	
          });
 
-
-# 5. Demo
-
-http://municipality.mstavrou.com
-
 # 6. Credits
 
 jQuery : http://api.jquery.com/jquery/
